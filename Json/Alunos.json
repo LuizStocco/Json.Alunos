@@ -6,7 +6,7 @@
         "Endereco": "94462 Rupert Spring",
         "id": "1",
         "Frequencia":"18/20",
-        "Notas":"7/10"
+        "Notas":"7/10",
         "Disciplina":
             {
                 "AgendaAulas": "2016-12-23T00:33:30.010Z",
@@ -34,7 +34,7 @@
         "Endereco": "079 Jenifer Row",
         "id": "2",
          "Frequencia":"15/20",
-        "Notas":"810"
+        "Notas":"8/10",
         "Disciplina": [
             {
                 "AgendaAulas": "2085-02-05T09:21:11.661Z",
@@ -62,7 +62,7 @@
         "Endereco": "76790 Mayert Common",
         "id": "3",
          "Frequencia":"20/20",
-        "Notas":"10/10"
+        "Notas":"10/10",
         "Disciplina": [
             {
                 "AgendaAulas": "2068-05-13T08:41:55.873Z",
@@ -82,7 +82,7 @@
         "Endereco": "299 Adolph Mountains",
         "id": "4",
          "Frequencia":"19/20",
-        "Notas":"9/10"
+        "Notas":"9/10",
         "Disciplina": [],
         "AtividadesExtras": []
     },
@@ -93,7 +93,7 @@
         "Endereco": "564 Roma Brooks",
         "id": "5",
          "Frequencia":"8/20",
-        "Notas":"5/10"
+        "Notas":"5/10",
         "Disciplina": [],
         "AtividadesExtras": []
     }
