@@ -73,7 +73,33 @@
                 "AlunoId": "3"
             }
         ],
-        "AtividadesExtras": []
+        "Provas": [
+    {
+      "disciplina": "Matematica",
+      "data": "27-07-2023",
+      "horario": "08:00"
+    },
+    {
+      "disciplina": "Historia",
+      "data": "27-07-2023",
+      "horario": "09:00"
+    },
+    {
+      "disciplina": "Quimica",
+      "data": "27-07-2023",
+      "horario": "10:00"
+    },
+    {
+      "disciplina": "Portugues",
+      "data": "27-07-2023",
+      "horario": "11:00"
+    },
+    {
+      "disciplina": "Geografia",
+      "data": "27-07-2023",
+      "horario": "11:45"
+    }
+  ]
     },
     {
         "Nome": "Ron Hansen",
