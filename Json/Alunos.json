@@ -19,7 +19,7 @@
         ],
         "AtividadesExtras": [
             {
-                "NomeMateria": "sit",
+                "NomeMateria": "Javascript",
                 "Professor": "Mrs. George Hagenes",
                 "Horario": "2022-06-09T06:30:11.103Z",
                 "id": "1",
@@ -47,7 +47,7 @@
         ],
         "AtividadesExtras": [
             {
-                "NomeMateria": "tempore",
+                "NomeMateria": "Balé",
                 "Professor": "Patsy Hauck",
                 "Horario": "2022-06-09T16:56:59.984Z",
                 "id": "2",
